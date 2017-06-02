@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Inknut+Antiqua');
+
+h2, h4{
+  font-family: 'Inknut Antiqua', serif;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.full-width {
+	width: 100%;
+}
+img {
+  width: 100%;
+}
+.indent {
+  text-indent: 50px;
+}
+.quote {
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  font-size: 25px;
+}
