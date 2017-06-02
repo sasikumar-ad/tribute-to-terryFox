@@ -24,3 +24,13 @@ img {
   font-weight: bold;
   font-size: 25px;
 }
+.container {
+  width: 80%;
+  background-color: #D9D8D7;
+}
+.jumbotron {
+  margin-bottom: 0px;
+}
+.short-box {
+  padding: 0 50px;
+}
